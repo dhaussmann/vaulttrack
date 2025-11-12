@@ -2,7 +2,7 @@
 
 A minimalist, modern web application to display the real-time Total Value Locked (TVL) of a Paradex vault, updated every 30 minutes.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dhaussmann/vaulttrack)
 
 VaultTrack is a sleek, minimalist web application designed to monitor the Total Value Locked (TVL) of a Paradex vault. It leverages Cloudflare Workers to periodically fetch data from the Paradex public API, ensuring the displayed information is refreshed every 30 minutes. The frontend is a visually stunning, single-page experience built with React and shadcn/ui, emphasizing clarity, elegance, and data-first design.
 
@@ -86,4 +86,4 @@ You can deploy the application directly from your terminal using the Wrangler CL
 
 You can also deploy this project with a single click using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dhaussmann/vaulttrack)
